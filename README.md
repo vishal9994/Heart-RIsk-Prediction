@@ -1,5 +1,5 @@
 # Heart-RIsk-Prediction
-A ML model to predict heart risks using various demographics like Cholestrol, age, ECG etc.
+A ML model to predict heart risks using various demographics like Cholestrol, age, ECG etc. and deployment on Streamlit
 
 # About Dataset
 Context
