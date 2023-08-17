@@ -7,27 +7,27 @@ This data set dates from 1988 and consists of four databases: Cleveland, Hungary
 
 # Attribute Information:
 
--age
--sex
--chest pain type (4 values)
--resting blood pressure
--serum cholestoral in mg/dl
--fasting blood sugar > 120 mg/dl
--resting electrocardiographic results (values 0,1,2)
--maximum heart rate achieved
--exercise induced angina
--oldpeak = ST depression induced by exercise relative to rest
--the slope of the peak exercise ST segment
--number of major vessels (0-3) colored by flourosopy
--thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+- age
+- sex
+- chest pain type (4 values)
+- resting blood pressure
+- serum cholestoral in mg/dl
+- fasting blood sugar > 120 mg/dl
+- resting electrocardiographic results (values 0,1,2)
+- maximum heart rate achieved
+- exercise induced angina
+- oldpeak = ST depression induced by exercise relative to rest
+- the slope of the peak exercise ST segment
+- number of major vessels (0-3) colored by flourosopy
+- thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 
 #  Exploratory Data Analysis
 There are 3 key risk factors for heart disease. High blood pressure, high blood cholesterol, smoking.
 Anyway, the scatter plot show 2 key risk factors focus over 30 years old people:
 
-Heart Disease - Cholesterol & Age
-Heart Disease - Resting Blood Pressure & Age
-Performed exploratory data analysis, Implemented data oversampling(SMOTE) & undersampling
+- Heart Disease - Cholesterol & Age
+- Heart Disease - Resting Blood Pressure & Age
+- Performed exploratory data analysis, Implemented data oversampling(SMOTE) & undersampling
 - What problems does high blood pressure cause?
 High blood pressure can damage your health in many ways. It can seriously hurt important organs like your heart, brain, kidneys, and eyes.
 The good news is that, in most cases, you can manage your blood pressure to lower your risk for serious health problems.
