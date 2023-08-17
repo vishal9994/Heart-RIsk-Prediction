@@ -28,10 +28,10 @@ Anyway, the scatter plot show 2 key risk factors focus over 30 years old people:
 - Heart Disease - Cholesterol & Age
 - Heart Disease - Resting Blood Pressure & Age
 - Performed exploratory data analysis, Implemented data oversampling(SMOTE) & undersampling
-- What problems does high blood pressure cause?
-High blood pressure can damage your health in many ways. It can seriously hurt important organs like your heart, brain, kidneys, and eyes.
-The good news is that, in most cases, you can manage your blood pressure to lower your risk for serious health problems.
-High blood pressure can damage your arteries by making them less elastic, which decreases the flow of blood and oxygen to your heart and leads to heart disease.
+- What problems does high blood pressure cause? \\
+High blood pressure can damage your health in many ways. It can seriously hurt important organs like your heart, brain, kidneys, and eyes. \\
+The good news is that, in most cases, you can manage your blood pressure to lower your risk for serious health problems. \\
+High blood pressure can damage your arteries by making them less elastic, which decreases the flow of blood and oxygen to your heart and leads to heart disease. \\
 
 • Developed a Streamlit-based user interface enabling users to input patient details and determine their heart condition
 
